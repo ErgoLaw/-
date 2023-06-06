@@ -255,6 +255,7 @@
 					<Comment/>
 					<Type>
 						<v8:Type>cfg:DocumentRef.ПриходнаяНакладная</v8:Type>
+						<v8:Type>cfg:DocumentRef.Перемещение</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
