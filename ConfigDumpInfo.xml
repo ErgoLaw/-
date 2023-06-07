@@ -227,8 +227,8 @@
 		<Metadata name="Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных" id="68b6f732-1d9f-47a5-bc32-5089473be5f4" configVersion="3d54b006e06d6d41a286774713e6a40d00000000"/>
 		<Metadata name="Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="68b6f732-1d9f-47a5-bc32-5089473be5f4.0" configVersion="5161cee07aa7ee48b6e2bf88945ed5a600000000"/>
 		<Metadata name="Report.ТоварыОстатки" id="4c61b338-3766-4108-b4d6-95404678197d" configVersion="3e8a9b91778cac4284d003f40c0d689300000000"/>
-		<Metadata name="Report.ТоварыОстатки.Template.ОсновнаяСхемаКомпоновкиДанных" id="3b5d72be-2da6-4954-80f3-906dc983c1de" configVersion="0a75743aaf5ff045a9c5fc578e47c51300000000"/>
-		<Metadata name="Report.ТоварыОстатки.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="3b5d72be-2da6-4954-80f3-906dc983c1de.0" configVersion="3aa879dcdf47db4fb03cc1229260ed1e00000000"/>
+		<Metadata name="Report.ТоварыОстатки.Template.ОсновнаяСхемаКомпоновкиДанных" id="3b5d72be-2da6-4954-80f3-906dc983c1de" configVersion="35930e075543454989bf91b3ab5b21d900000000"/>
+		<Metadata name="Report.ТоварыОстатки.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="3b5d72be-2da6-4954-80f3-906dc983c1de.0" configVersion="414f187314c03144b9a4b69b9b045d6900000000"/>
 		<Metadata name="Style.СтильКастомный" id="670dca57-0ad2-46d5-8929-906d3d0f025f" configVersion="abbf8e19b724854982ce6f214d6bb2d200000000"/>
 		<Metadata name="Style.СтильКастомный.Style" id="670dca57-0ad2-46d5-8929-906d3d0f025f.0" configVersion="18811ec484ad67448f640ad3cfa6680100000000"/>
 		<Metadata name="Subsystem.Закупка" id="07797629-a5e5-455d-82f7-3c55fed5bcee" configVersion="54dc3bb6453f0147bd7158e31140736900000000"/>
